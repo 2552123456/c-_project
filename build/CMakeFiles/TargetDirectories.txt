@@ -1,0 +1,3 @@
+C:/Users/v0535/OneDrive/שולחן העבודה/למודים/VideoProcessingApp/build/CMakeFiles/VideoProcessingApp.dir
+C:/Users/v0535/OneDrive/שולחן העבודה/למודים/VideoProcessingApp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/v0535/OneDrive/שולחן העבודה/למודים/VideoProcessingApp/build/CMakeFiles/ZERO_CHECK.dir
