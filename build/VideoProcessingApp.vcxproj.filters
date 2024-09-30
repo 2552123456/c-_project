@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\v0535\OneDrive\שולחן העבודה\VideoProcessingApp\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\v0535\OneDrive\שולחן העבודה\VideoProcessingApp\src\video_processor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\v0535\OneDrive\שולחן העבודה\VideoProcessingApp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EA911BEF-C751-3A09-9DF0-BD0D7450F8F3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

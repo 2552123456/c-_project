@@ -1,0 +1,10 @@
+^C:\USERS\V0535\ONEDRIVE\שולחן העבודה\VIDEOPROCESSINGAPP\BUILD\CMAKEFILES\C6D74BED2F132C65AEA2AD6B4C137B04\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/v0535/OneDrive/שולחן העבודה/VideoProcessingApp" "-BC:/Users/v0535/OneDrive/שולחן העבודה/VideoProcessingApp/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/v0535/OneDrive/שולחן העבודה/VideoProcessingApp/build/VideoProcessingApp.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
